@@ -1,0 +1,27 @@
+header {
+    height: 50px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    display: flex;
+    justify-self: space-between;
+    align-content: center;
+}
+
+.titulo {
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+}
+
+.intentos {
+    font-size: 25px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    color: white;
+}
+.boton-reiniciar{
+    position: absolute;
+    left: 12px;
+    top: 50px;
+}
