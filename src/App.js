@@ -34,6 +34,7 @@ class App extends Component {
           seleccionarCarta={(carta) => this.seleccionarCarta(carta)}
         />
       </div>
+     <div></div> 
     );
   }
 
